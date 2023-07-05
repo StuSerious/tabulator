@@ -30,5 +30,5 @@ all the designs used in `tabulator` are available to the public for free, here a
 
 ***note**: many of the designs in this directory have been slightly modified to better fit the design constraints of `tabulator`, and most materials and appearences have been altered for better rendering and accuracy; follow the links above for the original, unmodified sources.*
 
-**: GrabCAD does not let users explicitly assign a licence to the models they upload, instead they provide generic guidelines on how to appropriately handle IP in different scenarios.* \
-*see [this](https://help.grabcad.com/article/246-how-can-models-be-used-and-shared) blog post for more information*
+**: GrabCAD does not let users explicitly assign a license to the models they upload, instead they provide generic guidelines on how to appropriately handle IP in different scenarios.* \
+*see [this](https://help.grabcad.com/article/246-how-can-models-be-used-and-shared) blog post for more information.*
