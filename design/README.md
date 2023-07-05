@@ -19,8 +19,8 @@ all the designs used in `tabulator` are available to the public for free, here a
   + *license* > [GrabCAD Usage Policy](https://help.grabcad.com/article/246-how-can-models-be-used-and-shared)
 
 + `PJ320A-trrs-jacks`
-  + *creator* > [∏-∑-A](https://grabcad.com/a-566)
-  + *source* > [GrabCAD Library](https://grabcad.com/library/pj320a-3-5mm-audio-jack-1)
+  + *creator* > [Hayden Hu](https://grabcad.com/hayden.hu-1)
+  + *source* > [GrabCAD Library](https://grabcad.com/library/pj320a-pj320d-3-5mm-jack-1)
   + *license* > [GrabCAD Usage Policy](https://help.grabcad.com/article/246-how-can-models-be-used-and-shared)
   
 + `WeAct-RP2040`
