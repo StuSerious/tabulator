@@ -9,8 +9,6 @@
 !check out the live preview [here](https://a360.co/3JL0lDt), downloads are enabled! \
 also, a full selection of 3d models are available in the [resources](https://github.com/StuSerious/tabulator/tree/master/resources) folder.
 
-<iframe src="https://unipv10.autodesk360.com/shares/public/SH512d4QTec90decfa6eb9016235b2fb470d?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
 ## license 📜
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>, **excluding** the files mentioned in the credit section of the [design](https://github.com/StuSerious/tabulator/tree/master/design#credits-) directory.
