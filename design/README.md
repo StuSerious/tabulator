@@ -4,7 +4,7 @@ this is the root folder for design work in Fusion360, it contains all the compon
 
 ## credits 💖
 
-***note**: many of the designs in this directory have been slightly modified to better fit the design constraints of `tabulator`, see below for the original sources.*
+***note**: many of the designs in this directory have been slightly modified to better fit the design constraints of `tabulator`, and most materials and appearences have been modified for better rendering; see below for the original, unmodified sources.*
 
 all the designs used in `tabulator` are available to the public for free, here are the amazing people that made them:
 
