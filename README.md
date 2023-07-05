@@ -6,7 +6,7 @@
 
 ## 3D files 📦
 
-!check out the live preview [here](https://a360.co/3JL0lDt), downloads are enabled! \
+[check out the live 3D preview here](https://a360.co/3JL0lDt), downloads are enabled! \
 also, a full selection of 3d models are available in the [resources](https://github.com/StuSerious/tabulator/tree/master/resources) folder.
 
 ## license 📜
