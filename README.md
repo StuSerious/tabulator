@@ -6,7 +6,10 @@
 
 ## 3D files 📦
 
-a full selection of 3d models are available in the [resources](https://github.com/StuSerious/tabulator/tree/master/resources) folder.
+!check out the live preview [here](https://a360.co/3JL0lDt), downloads are enabled! \
+also, a full selection of 3d models are available in the [resources](https://github.com/StuSerious/tabulator/tree/master/resources) folder.
+
+<iframe src="https://unipv10.autodesk360.com/shares/public/SH512d4QTec90decfa6eb9016235b2fb470d?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## license 📜
 
