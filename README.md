@@ -1,8 +1,8 @@
-# tabulator 🎹 WORK IN PROGRSS!
+# tabulator 🎹 WORK IN PROGRSS
 
 *a compact, minimal, modular case design for the beekeep Piantor!*
 
-![tabulator banner](resources\images\renders\tabulator-v11-banner.png)
+![tabulator banner](resources/images/renders/tabulator-v11-banner.png)
 
 ## 3D files 📦
 
