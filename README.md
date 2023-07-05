@@ -1,6 +1,6 @@
 # `tabulator` 🎹
 
-*a compact, minimal, modular case design for the beekeeb Piantor!*
+*a compact, minimal, modular case design for the beekeeb Piantor!* (still work in progress)
 
 ![tabulator banner](resources/images/renders/tabulator-v11-banner.png)
 
