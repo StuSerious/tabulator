@@ -1,6 +1,12 @@
-# tabulator 🎹
+# tabulator 🎹 WORK IN PROGRSS!
 
 *a compact, minimal, modular case design for the beekeep Piantor!*
+
+![tabulator banner](resources\images\renders\tabulator-v11-banner.png)
+
+## 3D files 📦
+
+a full selection of 3d models are available in the [resources](https://github.com/StuSerious/tabulator/tree/master/resources) folder.
 
 ## license 📜
 
