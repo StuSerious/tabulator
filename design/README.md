@@ -3,6 +3,7 @@
 this is the root folder for design work in Fusion360, it contains all the components that make up the main assembly.
 
 ## credits 💖
+
 ***note**: many of the designs in this directory have been slightly modified to better fit the design constraints of `tabulator`, see below for the original sources.*
 
 all the designs used in `tabulator` are available to the public for free, here are the amazing people that made them:
