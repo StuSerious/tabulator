@@ -1,4 +1,4 @@
-# `tabulator` 🎹 WORK IN PROGRSS
+# `tabulator` 🎹
 
 *a compact, minimal, modular case design for the beekeeb Piantor!*
 
